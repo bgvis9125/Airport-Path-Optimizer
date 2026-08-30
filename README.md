@@ -40,3 +40,7 @@ A graph-based optimization project that uses **Prim's Minimum Spanning Tree (MST
 - Interactive GUI with maps
 - FAA real airport dataset integration
 - Kruskal's algorithm comparison
+
+## 🤝 Contribute & Collaborate
+
+Have an idea for a better optimization strategy or visualization? Feel free to contribute through an issue or pull request, or connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavi-singh-671745286/) to collaborate.
