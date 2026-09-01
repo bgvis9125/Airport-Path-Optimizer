@@ -11,6 +11,20 @@ A graph-based optimization project that uses **Prim's Minimum Spanning Tree (MST
 - Aviation network optimization 
 - Network infrastructure planning
 
+## 🔬 Existing Approaches & Project Contribution
+
+| Existing Approach                    | Limitation / Challenge                                                                                   | Airport Path Optimizer's Contribution                                                   |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Graph-based network modelling**    | Graph structures can be difficult to understand when represented only through abstract data structures.  | Converts the graph into an **interactive visual airport network**.                      |
+| **Minimum Spanning Tree algorithms** | Algorithms such as Prim's are often demonstrated using static examples or console-based implementations. | Provides **live visual rendering** of the generated Minimum Spanning Tree.              |
+| **Static algorithm demonstrations**  | Users cannot easily observe how the algorithm transforms the network.                                    | Makes the optimization process visually interpretable through an interactive interface. |
+| **Manual route/network analysis**    | Increasing network complexity makes manual reasoning difficult.                                          | Reduces the network optimization problem to a structured **weighted-graph problem**.    |
+
+### 💡 What Differentiates the Project
+
+The project bridges the gap between **algorithmic theory and interactive visualization**, turning Prim's Minimum Spanning Tree algorithm into a visual optimization tool for airport network modelling.
+
+
 ## ✨ Features
 
 - Prim's MST algorithm implementation from scratch
